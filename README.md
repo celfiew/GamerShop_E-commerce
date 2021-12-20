@@ -1,4 +1,4 @@
-# GamerShop_E-commerce
+# GamerShop_E-commerce :video_game:
 
 > A simple main of a Gamer Shoping place. 
 
